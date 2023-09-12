@@ -1,2 +1,6 @@
 Hii welcome to git learning
 added firsr-file.txt to git main
+
+tested the cluster virtually
+by using the virtual can sent the signals
+to the cluster UI and tested every feature
